@@ -1,0 +1,33 @@
+{
+  "name": "moe-moe-prototyping",
+  "version": "1.0.0",
+  "description": "MoE (Mixture of Experts) multi-agent app generator powered by Gemini CLI + Claude Code CLI. Automatically plans, builds, reviews, and iterates on full-stack apps.",
+  "bin": {
+    "moe-moe-prototyping": "./bin/cli.js"
+  },
+  "keywords": [
+    "moe",
+    "mixture-of-experts",
+    "ai-agent",
+    "gemini",
+    "claude",
+    "code-generation",
+    "app-generator",
+    "multi-agent",
+    "orchestration",
+    "prototype"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qnftk020/moe-moe-prototyping.git"
+  },
+  "homepage": "https://github.com/qnftk020/moe-moe-prototyping#readme",
+  "bugs": {
+    "url": "https://github.com/qnftk020/moe-moe-prototyping/issues"
+  },
+  "author": "Simon Shin",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
